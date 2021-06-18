@@ -1,2 +1,2 @@
 # Particle-Simulation
-weird particle sim I decided to make and then put on gituhb
+weird particle sim I decided to throw onto github
